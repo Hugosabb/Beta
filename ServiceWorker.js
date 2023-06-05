@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Chessy-1.0";
 const contentToCache = [
-    "Build/pwa.loader.js",
-    "Build/pwa.framework.js.gz",
-    "Build/pwa.data.gz",
-    "Build/pwa.wasm.gz",
+    "Build/pwa not gzip.loader.js",
+    "Build/pwa not gzip.framework.js",
+    "Build/pwa not gzip.data",
+    "Build/pwa not gzip.wasm",
     "TemplateData/style.css"
 
 ];
